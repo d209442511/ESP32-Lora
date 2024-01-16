@@ -4,7 +4,6 @@
 #include <RH_RF95.h>  // RFM95库
 
 #define LEDPIN 2         // 板载LED指示灯引脚
-#define DHTPIN 12        // 温湿度传感器信号引脚
 #define RFM95_CS 5       // CS引脚
 #define RFM95_RST 13     // RST引脚
 #define RFM95_INT 27     // G0(IRQ)引脚
